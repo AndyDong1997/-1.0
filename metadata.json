@@ -1,0 +1,7 @@
+{
+  "name": "Cross-Border AI Commerce Agent 1.0",
+  "description": "A comprehensive AI agent for cross-border e-commerce, including product generation, image assistance, and multi-channel copywriting tools.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
